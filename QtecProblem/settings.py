@@ -25,7 +25,7 @@ SECRET_KEY = '2vs6eqt1ah18+gv^q*)q2*u)80mc1quax$%k!y7*#-@!9+s%^)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['search-history-qtec.herokuapp.com', '127.0.0.1']
 
 CORS_ORIGIN_ALLOW_ALL = True
 # Application definition
